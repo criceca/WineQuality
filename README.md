@@ -1,38 +1,38 @@
 # WineQuality
 
-Este proyecto analiza la calidad del vino utilizando un conjunto de datos de características químicas.
+This project analyzes wine quality using a dataset of chemical characteristics.
 
-## Objetivos
+## Objectives
 
-- Analizar las características químicas del vino.
-- Determinar qué características influyen más en la calidad del vino.
-- Construir un modelo predictivo para la calidad del vino.
+- Analyze the chemical characteristics of wine.
+- Determine which characteristics most influence wine quality.
+- Build a predictive model for wine quality.
 
-## Datos
+## Data
 
-El conjunto de datos utilizado en este proyecto contiene las siguientes características:
+The dataset used in this project contains the following characteristics:
 
-- Acidez fija
-- Acidez volátil
-- Ácido cítrico
-- Azúcares residuales
-- Cloruros
-- Dióxido de azufre libre
-- Dióxido de azufre total
-- Densidad
+- Fixed acidity
+- Volatile acidity
+- Citric acid
+- Residual sugar
+- Chlorides
+- Free sulfur dioxide
+- Total sulfur dioxide
+- Density
 - pH
-- Sulfatos
+- Sulfates
 - Alcohol
-- Calidad (variable objetivo)
+- Quality (target variable)
 
-## Ejecución
+## Execution
 
-Para ejecutar el notebook, sigue estos pasos:
+To run the notebook, follow these steps:
 
-1. Clona este repositorio.
-2. Abre el archivo `Wine_quality.ipynb` en Jupyter Notebook o JupyterLab.
-3. Ejecuta las celdas del notebook para realizar el análisis y construir el modelo.
+1. Clone this repository.
+2. Open the `Wine_quality.ipynb` file in Jupyter Notebook or JupyterLab.
+3. Execute the cells in the notebook to perform the analysis and build the model.
 
-## Resultados
+## Results
 
-Los resultados del análisis y del modelo predictivo se encuentran detallados en el notebook `Wine_quality.ipynb`.
+The results of the analysis and the predictive model are detailed in the `Wine_quality.ipynb` notebook.
